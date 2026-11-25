@@ -1,7 +1,10 @@
 # VIcious
 
+By BvtterFvcker, developed with Claude (Anthropic).
+
 VIcious: a fork of victory-gta6 (fxceless), itself a fork of VIctory. Crates and the program are named
-`vicious` (`cargo build --release -p vicious` -> `targeteleaseicious.exe`); the `VICTORY_*` switches keep
+`vicious` (`cargo build --release -p vicious` -> `target
+eleaseicious.exe`); the `VICTORY_*` switches keep
 upstream's names. Credits and the upstream README below are kept as they were.
 
 
