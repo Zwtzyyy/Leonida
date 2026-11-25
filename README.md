@@ -1,6 +1,6 @@
 # VIcious
 
-By BvtterFvcker, developed with Claude (Anthropic).
+By BvtterFvcker, developed with assistance from Claude (Anthropic).
 
 VIcious: a fork of victory-gta6 (fxceless), itself a fork of VIctory. Crates and the program are named
 `vicious` (`cargo build --release -p vicious` -> `target
